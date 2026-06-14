@@ -1,0 +1,24 @@
+{
+  "project": "The Abattoir Asset Test v01",
+  "purpose": "Babylon.js in-engine material/asset test room for Koder/mobile browser.",
+  "assets": [
+    "industrial_wall_with_bolted_panels.png",
+    "frosted_metal_tile_grid.png",
+    "weathered_industrial_metal_wall_panels.png",
+    "worn_industrial_metal_wall_texture.png",
+    "worn_industrial_concrete_floor_texture.png",
+    "worn_industrial_tiled_floor_texture.png",
+    "grimy_industrial_tile_floor_texture.png",
+    "grungy_industrial_floor_tiles_texture.png",
+    "abattoir_asset_003_loading_dock_wall_A_wide_concrete.png",
+    "abattoir_asset_004_loading_dock_floor_A_worn_concrete.png",
+    "abattoir_asset_005_truck_bay_wall_B_dark_concrete.png",
+    "abattoir_asset_006_truck_bay_floor_B_dark_worn_concrete.png",
+    "abattoir_asset_013_automatic_freezer_door.png"
+  ],
+  "notes": [
+    "This is not gameplay yet.",
+    "This tests whether the textures/door images work when applied in a real Babylon.js scene.",
+    "Door asset is currently a flat image panel reference, not an isolated 3D model."
+  ]
+}
